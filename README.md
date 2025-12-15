@@ -35,11 +35,11 @@ map.html
 <font color="magenta"><b>CHIDAMBARAM</b></font>
 </h1>
 <h3 align="center">
-<font color="blue"><b>KISHORE</b></font>
+<font color="blue"><b>SANJAY</b></font>
 </h3>
 <center>
 <map name="MyCity">
-<img src="kichi map.jpg" usemap="#image-map">
+<img src="sanj map.jpg" usemap="#image-map">
 
 <map name="image-map">
     <area target="_self" alt="college" title="college" href="college.html" coords="16,66,180,148" shape="rect">
